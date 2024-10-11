@@ -19,6 +19,11 @@ header .navbar-brand {
     font-size: 0;
 }
 
+.navbar .navbar-nav .simple-dropdown .dropdown-menu {
+    width: 240px;
+    padding: 10px 0;
+}
+
 .slider__mt{
     margin-top: 126px !important;
 }
