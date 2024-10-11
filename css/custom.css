@@ -58,15 +58,18 @@ footer .footer-logo img {
     font-weight: bold;
 }
 
-.bg-white {
+.bg-whit {
     border-radius: 50px;
 }
 
-.section__bg--color{
-    background-color: #af95be !important;
+.bg-transparent {
+    --bs-bg-opacity: 1;
+    background-color: #ffffff !important;
 }
 
-
+.card__bg-rd{
+    border-radius: 50px;
+}
 
 @media (min-width: 1400px) {
     .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
