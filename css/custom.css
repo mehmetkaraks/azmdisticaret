@@ -108,6 +108,15 @@ footer .footer-logo img {
   border-radius: 50px;
 }
 
+.home__about--logo--df{
+  display: flex;
+  justify-content: center;
+}
+
+.home__about--logo{
+  width: 65% !important;
+}
+
 /**-----------responsive-----------**/
 
 @media (min-width: 1400px) {
