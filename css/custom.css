@@ -108,13 +108,19 @@ footer .footer-logo img {
   border-radius: 50px;
 }
 
-.home__about--logo--df{
+.home__about--logo--df {
   display: flex;
   justify-content: center;
 }
 
-.home__about--logo{
+.home__about--logo {
   width: 65% !important;
+}
+
+.description__img {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
 }
 
 /**-----------responsive-----------**/
@@ -161,7 +167,6 @@ footer .footer-logo img {
     max-height: 100%;
   }
 }
-
 
 @media (max-width: 430px) {
   .sm-h-300px {
