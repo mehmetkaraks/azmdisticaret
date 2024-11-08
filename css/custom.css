@@ -1,5 +1,13 @@
 /**-------------Header-------------**/
 
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  color: #4c4d48;
+}
+
+/**-------------Header-------------**/
+
 .topbar__bg--color {
   background-color: #af95be !important;
   position: relative !important;
@@ -132,7 +140,7 @@ footer .footer-logo img {
   .container-sm,
   .container-xl,
   .container-xxl {
-    max-width: 1420px;
+    max-width: 1550px;
   }
 }
 
