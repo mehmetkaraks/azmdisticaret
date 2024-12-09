@@ -131,6 +131,15 @@ footer .footer-logo img {
   margin-bottom: 50px;
 }
 
+/**-----------product-shoe-----------**/
+
+.input-group,
+.row {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
+
 /**-----------responsive-----------**/
 
 @media (min-width: 1400px) {
